@@ -1,0 +1,3 @@
+this exercice use k3d
+
+export KUBECONFIG=/Users/anniec/.kube/k3d-rancher
