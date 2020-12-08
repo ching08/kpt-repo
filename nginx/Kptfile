@@ -12,4 +12,7 @@ openAPI:
       x-k8s-cli:
         setter:
           name: replicas
-          value: "3"
+          value: "2"
+          setBy: anniec
+          isSet: true
+      description: cost optimization
